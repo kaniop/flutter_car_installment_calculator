@@ -1,16 +1,7 @@
-# flutter_car_installment_calculator
+โปรเจค flutter_car_installment_calculator
+แอปคำนวนดอกเบี้ย
 
-A new Flutter project.
+<img src="https://github.com/user-attachments/assets/f34fa844-31fa-46cf-b837-cc08cd6d0e9b">
+<img src="https://github.com/user-attachments/assets/a0c0d404-2bae-4f20-8457-108d7651a2a9">
+<img src="https://github.com/user-attachments/assets/74fc1ab6-556c-42a4-a248-b526fb10e25a">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
